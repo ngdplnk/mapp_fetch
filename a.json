@@ -1,5 +1,5 @@
 {
-  "message": "Hay 7 audios disponibles!",
-  "audio_count": 7,
+  "message": "Hay solo 1 audio disponible!",
+  "audio_count": 1,
   "image": "assets/viewer_default.png"
 }
