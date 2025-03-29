@@ -1,5 +1,5 @@
 {
-  "message": "Hay solo 1 canción disponible!",
-  "audio_count": 1,
+  "message": "Hay 3 canciones disponibles!",
+  "audio_count": 3,
   "image": "assets/viewer_default.png"
 }
